@@ -1,3 +1,3 @@
 class dummy {
-  notice "foobar"
+  notice "control_branch_foobar"
 }
