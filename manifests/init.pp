@@ -1,3 +1,3 @@
 class dummy {
-  notice "master"
+  notice "foobar"
 }
